@@ -1,2 +1,4 @@
+removed_sources:
+  Dist-Zilla-Plugin-Mercurial-0.03.tar.gz: c6102afcf944569b9d6d52c25f63571b616f0cf2
 sources:
-  "Dist-Zilla-Plugin-Mercurial-0.03.tar.gz": c6102afcf944569b9d6d52c25f63571b616f0cf2
+  Dist-Zilla-Plugin-Mercurial-0.07.tar.gz: 70c1f18ff3d0832d51d09a6ce944087a7243917b

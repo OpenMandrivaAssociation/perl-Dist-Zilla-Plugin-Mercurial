@@ -1,9 +1,9 @@
 %define upstream_name    Dist-Zilla-Plugin-Mercurial
-%define upstream_version 0.03
+%define upstream_version 0.07
 
 Name:		perl-%{upstream_name}
 Version:	%perl_convert_version %{upstream_version}
-Release:	3
+Release:	1
 
 Summary:	Check for modified/removed/unknown files
 License:	GPL+ or Artistic
@@ -46,4 +46,5 @@ perl Makefile.PL INSTALLDIRS=vendor
 %doc Changes META.yml LICENSE README
 %{_mandir}/man3/*
 %{perl_vendorlib}/*
+
 
